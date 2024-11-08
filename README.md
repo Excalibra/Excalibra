@@ -11,8 +11,6 @@
   Apple Music（「何度目の青空か」のぎざかフォーティーシックス）
 </a>
 
-![de18ce229368c104d389a209734457aff1664dce](https://github.com/user-attachments/assets/2deec2e1-c0e0-4d46-9f2b-6be55a41ec5d)
-
 
 [🔎](#)&nbsp;<a href="#" target="_blank">link name</a>  &nbsp;<a href="#" target="_blank">link name 2</a>  &nbsp;<a href="h#" target="_blank">link name 3</a> &nbsp;<a href="#">link name 4</a>  &nbsp;<a href="#" target="_blank">link name 5</a>
 
