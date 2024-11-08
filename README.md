@@ -1,4 +1,4 @@
-## Pin [Readme Card](https://github.com/anuraghazra/github-readme-stats)
+![image](https://github.com/user-attachments/assets/3d874cc8-7e40-4413-8038-d3c78c450320)## Pin [Readme Card](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](#)
 [![Readme Card](#)
@@ -6,7 +6,7 @@
 [![Readme Card](#)
 
 
-<a><img align="center" src="https://images.squarespace-cdn.com/content/v1/5e73815d51d75711a1ffe1fb/0509f795-84ba-40af-bbf9-dc0ff7ad7cf5/DeckardsPenthouse_Est_v002_007.jpg" /></a>
+<a><img align="center" src="https://images.squarespace-cdn.com/content/v1/5e73815d51d75711a1ffe1fb/37cc06bc-f088-44e3-add2-95825462e75f/DeckardsPenthouse_Est_v008_023.jpg" /></a>
 
 ## Web 
 
