@@ -2,8 +2,6 @@
 [![Readme Card](#)
 [![Readme Card](#)
 
-<a><img align="center" src="https://images.squarespace-cdn.com/content/v1/5e73815d51d75711a1ffe1fb/37cc06bc-f088-44e3-add2-95825462e75f/DeckardsPenthouse_Est_v008_023.jpg" /></a>
-
 ## Web 
 
 
