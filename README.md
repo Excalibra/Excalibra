@@ -18,7 +18,7 @@
 
 ✏️ <a href="#" target="_blank">url name</a>&nbsp;<a href="#" target="_blank">url name 2</a> [url name 3](#)
 
-🧰&nbsp;[metools](http://www.metools.info/other/subnetmask160.html)&nbsp;[奇迹秀](https://www.qijishow.com/down/efficiency.html)&nbsp;<a href="https://c.runoob.com" target="_blank">菜鸟工具</a> &nbsp;[IPCN网段分布](http://ipcn.chacuo.net/view/i_CHINANET)&nbsp;[思享工具箱](https://tool.4xseo.com/linuxcmd/)&nbsp;[tio-freemdict-jp](https://tio.freemdict.com/jp/)
+🧰&nbsp;[metools](http://www.metools.info/other/subnetmask160.html)&nbsp;[link name](#)&nbsp;<a href="https://c.runoob.com" target="_blank">菜鸟工具</a> &nbsp;[url name 2](#)&nbsp;[link name](#)&nbsp;[link name](#)
 
 ❤️&nbsp;<a href="https://hellowindows.cn" target="_blank">HelloWindows</a>&nbsp;<a href="https://otp.landian.vip" target="_blank">OfficeToolPlus</a>&nbsp;<a href="https://massgrave.dev" target="_blank">MicrosoftActivationScripts </a>&nbsp;[Office For MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)
 
