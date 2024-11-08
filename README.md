@@ -1,4 +1,3 @@
-![de18ce229368c104d389a209734457aff1664dce](https://github.com/user-attachments/assets/b73cfa60-c173-44be-89d2-4056304be93e)[![Readme Card](#)
 [![Readme Card](#)
 [![Readme Card](#)
 [![Readme Card](#)
@@ -6,8 +5,7 @@
 <a><img align="center" src="https://images.squarespace-cdn.com/content/v1/5e73815d51d75711a1ffe1fb/37cc06bc-f088-44e3-add2-95825462e75f/DeckardsPenthouse_Est_v008_023.jpg" /></a>
 
 ## Web 
-[![Apple Music (one For My Baby)](
-![Uploading de18ce229368c104d389a209734457aff1664dce.gif…]())](https://music.apple.com/us/album/red-sun-in-the-sky/1755408886?i=1755408887)
+[![Apple Music (one For My Baby)](![Uploading de18ce229368c104d389a209734457aff1664dce.gif…](https://music.apple.com/us/album/red-sun-in-the-sky/1755408886?i=1755408887)]
 
 
 [🔎](#)&nbsp;<a href="#" target="_blank">link name</a>  &nbsp;<a href="#" target="_blank">link name 2</a>  &nbsp;<a href="h#" target="_blank">link name 3</a> &nbsp;<a href="#">link name 4</a>  &nbsp;<a href="#" target="_blank">link name 5</a>
