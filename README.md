@@ -7,12 +7,8 @@
 
 ## Web 
 
-
-<a href="https://music.apple.com/cn/album/%E4%BD%95%E5%BA%A6%E7%9B%AE%E3%81%AE%E9%9D%92%E7%A9%BA%E3%81%8B/1537529213?i=1537529214" style="display: flex; align-items: center; text-decoration: none;">
-  <span style="margin-right: 20px;">Apple Music（「何度目の青空か」のぎざかフォーティーシックス）</span>
-  <img src="https://fastly.jsdelivr.net/gh/hoochanlon/hoochanlon/pictures/n46.png" width="270" height="270" />
-</a>
-
+<a href="https://music.apple.com/cn/album/%E4%BD%95%E5%BA%A6%E7%9B%AE%E3%81%AE%E9%9D%92%E7%A9%BA%E3%81%8B/1537529213?i=1537529214"><img align="right" src="![image](https://github.com/user-attachments/assets/ff5777eb-83e2-41fb-8e13-52016d522d41)
+" width="270 " height="270" />Apple Music（「何度目の青空か」のぎざかフォーティーシックス）</a>
 
 
 [🔎](#)&nbsp;<a href="#" target="_blank">link name</a>  &nbsp;<a href="#" target="_blank">link name 2</a>  &nbsp;<a href="h#" target="_blank">link name 3</a> &nbsp;<a href="#">link name 4</a>  &nbsp;<a href="#" target="_blank">link name 5</a>
