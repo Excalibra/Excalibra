@@ -6,7 +6,7 @@
 [![Readme Card](#)
 
 
-<a><img align="right" src="https://images.squarespace-cdn.com/content/v1/5e73815d51d75711a1ffe1fb/0509f795-84ba-40af-bbf9-dc0ff7ad7cf5/DeckardsPenthouse_Est_v002_007.jpg" width="270" height="270" /></a>
+<a><img align="center" src="https://images.squarespace-cdn.com/content/v1/5e73815d51d75711a1ffe1fb/0509f795-84ba-40af-bbf9-dc0ff7ad7cf5/DeckardsPenthouse_Est_v002_007.jpg" width="270" height="270" /></a>
 
 ## Web 
 
