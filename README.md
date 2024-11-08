@@ -1,4 +1,4 @@
-![de18ce229368c104d389a209734457aff1664dce](https://github.com/user-attachments/assets/c6961e34-1216-4477-afce-dda2045923e5)[![Readme Card](#)
+[![Readme Card](#)
 [![Readme Card](#)
 [![Readme Card](#)
 
