@@ -7,7 +7,7 @@
 <a><img align="center" src="https://images.squarespace-cdn.com/content/v1/5e73815d51d75711a1ffe1fb/37cc06bc-f088-44e3-add2-95825462e75f/DeckardsPenthouse_Est_v008_023.jpg" /></a>
 
 ## Web 
-[![Apple Music (one For My Baby)](https://64.media.tumblr.com/fba806726f4096b8a0bb59f9ebc8558a/6dbb59d193afb5fe-f2/s540x810/de18ce229368c104d389a209734457aff1664dce.gif)](https://music.apple.com/us/album/red-sun-in-the-sky/1755408886?i=1755408887)
+[![Apple Music (one For My Baby)](https://64.media.tumblr.com/fba806726f4096b8a0bb59f9ebc8558a/6dbb59d193afb5fe-f2/s540x810/de18ce229368c104d389a209734457aff1664dce.gifv)](https://music.apple.com/us/album/red-sun-in-the-sky/1755408886?i=1755408887)
 
 
 
