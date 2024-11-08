@@ -7,7 +7,7 @@
 
 ## Web 
 
-<a href="https://music.apple.com/us/album/one-for-my-baby-and-one-more-for-the-road/1440948281?i=1440950537"><img align="right" src="https://github.com/user-attachments/assets/3a1bb3e7-4656-40ae-87c3-68b50749d238" width="200" height="200" />Apple Music（One for My Baby) </a>
+<a href="https://music.apple.com/us/album/one-for-my-baby-and-one-more-for-the-road/1440948281?i=1440950537"><img align="right" src="https://github.com/user-attachments/assets/3a1bb3e7-4656-40ae-87c3-68b50749d238" width="200" height="200" />Apple Music（Frank Sinatra - One for My Baby) </a>
 
 [🔎](#)&nbsp;<a href="#" target="_blank">link name</a>  &nbsp;<a href="#" target="_blank">link name 2</a>  &nbsp;<a href="h#" target="_blank">link name 3</a> &nbsp;<a href="#">link name 4</a>  &nbsp;<a href="#" target="_blank">link name 5</a>
 
