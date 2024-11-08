@@ -20,7 +20,7 @@
 
 🧰&nbsp;[metools](http://www.metools.info/other/subnetmask160.html)&nbsp;[link name](#)&nbsp;<a href="https://c.runoob.com" target="_blank">菜鸟工具</a> &nbsp;[url name 2](#)&nbsp;[link name](#)&nbsp;[link name](#)
 
-❤️&nbsp;<a href="https://hellowindows.cn" target="_blank">HelloWindows</a>&nbsp;<a href="https://otp.landian.vip" target="_blank">OfficeToolPlus</a>&nbsp;<a href="https://massgrave.dev" target="_blank">MicrosoftActivationScripts </a>&nbsp;[Office For MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)
+❤️&nbsp;<a href="#" target="_blank">link name</a>&nbsp;<a href="#" target="_blank">link name</a>&nbsp;<a href="https://massgrave.dev" target="_blank">MicrosoftActivationScripts </a>&nbsp;[link name](#)
 
 
 ## Language and Tools
