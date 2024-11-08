@@ -5,6 +5,10 @@
 [![Readme Card](#)
 [![Readme Card](#)
 
+
+<a><img align="right" src="
+https://images.squarespace-cdn.com/content/v1/5e73815d51d75711a1ffe1fb/0509f795-84ba-40af-bbf9-dc0ff7ad7cf5/DeckardsPenthouse_Est_v002_007.jpg" width="270" height="270" /></a>
+
 ## Web 
 
 <a href="https://music.apple.com/us/album/red-sun-in-the-sky/1755408886?i=1755408887"><img align="right" src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/fb/c1/cffbc151-df02-8c63-3faa-793fad8e3494/8447181868036.jpg/632x632bb.webp" width="270 " height="270" />Apple Music（Red Sun in the Sky - Mao Ze Dong）</a>
@@ -34,7 +38,7 @@ name 2: [Microsoft Learn](https://learn.microsoft.com/zh-cn/training/modules/imp
 
 ## Table
 
-|[摸鱼导航](https://moyu.games/)| [龙喵](https://ailongmiao.com)、[龙轩](http://ilxdh.com)、[s.b-hu.org](https://s.b-hu.org/lite/)、[regex101](https://regex101.com/) |
+|[Search Navigation](https://moyu.games/)| [龙喵](https://ailongmiao.com)、[龙轩](http://ilxdh.com)、[s.b-hu.org](https://s.b-hu.org/lite/)、[regex101](https://regex101.com/) |
 | :-----------: | :----------------------------------------------------------: |
 |Shell| <a href="https://ss64.com" target="_blank" >SS64-CMD</a> <a href="https://www.learnfk.com/batch-script/batch-script-aliases.html">无涯教程</a>  <a href="https://www.educba.com/powershell-base64/" target="_blank" >EDUCBA</a> <a href="https://www.explainshell.com">Shell语法分析</a> [linux速查](https://wangchujiang.com/linux-command/) |
 |SHUXUE|[graph_editor](https://csacademy.com/app/graph_editor/)、[myscript](http://webdemo.myscript.com)、[geogebra](https://www.geogebra.org/geometry)|
