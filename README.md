@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/3d874cc8-7e40-4413-8038-d3c78c450320)## Pin [Readme Card](https://github.com/anuraghazra/github-readme-stats)
-
 [![Readme Card](#)
 [![Readme Card](#)
 [![Readme Card](#)
