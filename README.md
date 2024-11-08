@@ -11,8 +11,8 @@
 
 [🔎](#)&nbsp;<a href="#" target="_blank">link name</a>  &nbsp;<a href="#" target="_blank">link name 2</a>  &nbsp;<a href="h#" target="_blank">link name 3</a> &nbsp;<a href="#">link name 4</a>  &nbsp;<a href="#" target="_blank">link name 5</a>
 
-[✨](https://1login.to)&nbsp;<a href="https://tools.pdf24.org" target="_blank">pdf24.org</a>&nbsp;<a href="http://www.gxlib.org.cn"
- target="_blank">广西壮族自治区图书馆</a>&nbsp;<a href="https://www.zjlib.cn" target="_blank">浙江图书馆</a> [香港大学图书库](http://hub.hku.hk/)
+[✨](#)&nbsp;<a href="https://tools.pdf24.org" target="_blank">pdf24.org</a>&nbsp;<a href="#"
+ target="_blank">url name</a>&nbsp;<a href="#" target="_blank">url name 2</a> [name url](#)
 
 [🔖](https://www.gsxt.gov.cn/index.html)&nbsp;<a href="https://www.ncpssd.org" target="_blank">中国哲学社会科学文献中心</a>&nbsp;<a href="https://libguides.nus.edu.sg/chineseeresources/theses">新加坡论文库</a>&nbsp;<a href="https://ndltd.ncl.edu.tw" target="_blank">台湾博硕论文系统</a>
 
