@@ -45,13 +45,6 @@
 
 ---
 
- <div align="center">
-
- <a href="https://ndltd.ncl.edu.tw" target="_blank">
-<img src="https://ndltd.ncl.edu.tw/gs32/nclcdr/image/promote.gif"></a>
-
-</div>
-
 
 <!-- 
 
