@@ -59,9 +59,5 @@
 
 <a href="#"><img align="right" src="./pictures/wx.png" width="200 " height="200" /></a>
 
-<a href="https://pkeytool.com" target="_blank">PkeyTool</a>
-
-* https://fastly.jsdelivr.net/gh/ cdn加速
-* http://coverbox.henry-hu.com 专辑封面
 
 -->
