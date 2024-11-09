@@ -7,7 +7,7 @@
 
 ## Web 
 
-<a href="https://music.apple.com/us/album/one-for-my-baby-and-one-more-for-the-road/1440948281?i=1440950537"><img align="right" src="https://github.com/user-attachments/assets/3a1bb3e7-4656-40ae-87c3-68b50749d238" width="300" height="300" />Apple Music（Frank Sinatra - One for My Baby) </a>
+<a href="https://music.apple.com/us/album/one-for-my-baby-and-one-more-for-the-road/1440948281?i=1440950537"><img align="right" src="https://github.com/user-attachments/assets/3a1bb3e7-4656-40ae-87c3-68b50749d238" width="270" height="270" />Apple Music（Frank Sinatra - One for My Baby) </a>
 
 [🔎](https://citaty.info/)&nbsp;<a href="https://www.russianforfree.com/" target="_blank">RU Grammar</a>  &nbsp;<a href="https://orfogrammka.ru/" target="_blank">RU Grammar Checker</a>  &nbsp;<a href="https://gramota.ru/" target="_blank">RU Proofreading</a> &nbsp;<a href="https://www.multitran.com/">RU Dictionary</a> 
 
