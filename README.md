@@ -12,13 +12,13 @@
 [🔎](https://citaty.info/)&nbsp;<a href="https://www.russianforfree.com/" target="_blank">RU Grammar</a>  &nbsp;<a href="https://orfogrammka.ru/" target="_blank">RU Grammar Checker</a>  &nbsp;<a href="https://gramota.ru/" target="_blank">RU Proofreading</a> &nbsp;<a href="https://www.multitran.com/">RU Dictionary</a> 
 
 [✨](#)&nbsp;<a href="https://tools.pdf24.org" target="_blank">pdf24.org</a>&nbsp;<a href="https://www.rsl.ru/"
- target="_blank">Российская государственная библиотека</a>&nbsp;<a href="#" target="_blank">url name 2</a> [name url](#)
+ target="_blank">Российская государственная библиотека</a>&nbsp;<a href="https://www.library.spbu.ru/" target="_blank">Санкт-Петербургская государственная университетская библиотека</a> [Библиотека МГУ](#)
 
 [🔖](#)&nbsp;<a href="#" target="_blank">url name</a>&nbsp;<a href="#">url name 2</a>&nbsp;<a href="#" target="_blank">url name 3</a>
 
 ✏️ <a href="#" target="_blank">url name</a>&nbsp;<a href="#" target="_blank">url name 2</a> [url name 3](#)
 
-🧰&nbsp;[metools](http://www.metools.info/other/subnetmask160.html)&nbsp;[link name](#)&nbsp;<a href="https://c.runoob.com" target="_blank">Beginner Tools</a> &nbsp;[url name 2](#)&nbsp;[link name](#)&nbsp;[link name](#)
+🧰&nbsp;[metools](http://www.metools.info/other/subnetmask160.html)&nbsp;[link name](#)&nbsp;<a href="https://c.runoob.com" target="_blank">Beginner Tools</a> &nbsp;[url name 2](#)&nbsp;[link name](#)&nbsp;[link name](https://www.msu.ru/en/library/)
 
 ❤️&nbsp;<a href="#" target="_blank">link name</a>&nbsp;<a href="#" target="_blank">link name</a>&nbsp;<a href="https://massgrave.dev" target="_blank">MicrosoftActivationScripts </a>&nbsp;[link name](#)
 
