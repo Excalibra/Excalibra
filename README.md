@@ -39,7 +39,7 @@ name 2: [Microsoft Learn](https://learn.microsoft.com/zh-cn/training/modules/imp
 |Shell| <a href="https://ss64.com" target="_blank" >SS64-CMD</a> <a href="https://www.learnfk.com/batch-script/batch-script-aliases.html">Limitless Tutorials</a>  <a href="https://www.educba.com/powershell-base64/" target="_blank" >EDUCBA</a> <a href="https://www.explainshell.com">Shell Syntax Analysis</a> [Linux Quick Reference](https://wangchujiang.com/linux-command/) |
 |MATHS|[graph_editor](https://csacademy.com/app/graph_editor/)、[myscript](http://webdemo.myscript.com)、[geogebra](https://www.geogebra.org/geometry)|
 |PHYSICS|[Physics Experimental Center of Shanghai Jiao Tong University](https://pec.sjtu.edu.cn/ols/)、[Physics Teaching Experimental Center of Fudan University](http://phylab.fudan.edu.cn/doku.php)|
-|CHEM| [复旦大学化学实验教学中心](http://www.ecce.fudan.edu.cn/a2/22/c5772a41506/page.htm) |
+|CHEM| [Chemistry Experimental Teaching Center of Fudan University](http://www.ecce.fudan.edu.cn/a2/22/c5772a41506/page.htm) |
 |DOWNLOAD| [Watt Toolkit](https://steampp.net)、[SwitchHosts](https://github.com/oldj/SwitchHosts)、[DNSCrypt](https://github.com/DNSCrypt/dnscrypt-proxy) 、[DownGit](https://minhaskamal.github.io/DownGit/#/home)|
 
 
