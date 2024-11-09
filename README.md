@@ -22,9 +22,10 @@
 
 ❤️&nbsp;<a href="#" target="_blank">link name</a>&nbsp;<a href="#" target="_blank">link name</a>&nbsp;<a href="https://massgrave.dev" target="_blank">MicrosoftActivationScripts </a>&nbsp;[link name](#)
 
+<br><br>
 
 ## Language and Tools
-<a><img align="right" src="https://github.com/user-attachments/assets/4d921721-94fd-454c-ba99-38314e12f624" width="200 " height="200" /></a>
+<a><img align="right" src="https://github.com/user-attachments/assets/4d921721-94fd-454c-ba99-38314e12f624" width="270" height="270" /></a>
 
 name：[link name](#)&nbsp;[link name 2](#)&nbsp;[name link 3](#)&nbsp;[name link 4](#)
 
