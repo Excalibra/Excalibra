@@ -14,11 +14,11 @@
 [✨](#)&nbsp;<a href="https://tools.pdf24.org" target="_blank">pdf24.org</a>&nbsp;<a href="https://www.rsl.ru/"
  target="_blank">РГБ</a>&nbsp;<a href="https://www.library.spbu.ru/" target="_blank">Санкт-Петербургская РГБ</a> [Библиотека МГУ](#)
 
-[🔖](#)&nbsp;<a href="https://diss.rsl.ru/" target="_blank">РГБ Диссертации</a>&nbsp;<a href="#">url name 2</a>&nbsp;<a href="#" target="_blank">url name 3</a>
+[🔖](#)&nbsp;<a href="https://diss.rsl.ru/" target="_blank">РГБ Диссертации</a>&nbsp;<a href="https://нэб.рф/">НЭБ</a>&nbsp;<a href="#" target="_blank">url name 3</a>
 
 ✏️ <a href="#" target="_blank">url name</a>&nbsp;<a href="#" target="_blank">url name 2</a> [url name 3](#)
 
-🧰&nbsp;[metools](http://www.metools.info/other/subnetmask160.html)&nbsp;[link name](#)&nbsp;<a href="https://c.runoob.com" target="_blank">Beginner Tools</a> &nbsp;[url name 2](#)&nbsp;[link name](#)&nbsp;[link name](https://www.msu.ru/en/library/)
+🧰&nbsp;[metools](http://www.metools.info/other/subnetmask160.html)&nbsp;[link name]([#](https://нэб.рф/))&nbsp;<a href="https://c.runoob.com" target="_blank">Beginner Tools</a> &nbsp;[url name 2](#)&nbsp;[link name](#)&nbsp;[link name](https://www.msu.ru/en/library/)
 
 ❤️&nbsp;<a href="#" target="_blank">link name</a>&nbsp;<a href="#" target="_blank">link name</a>&nbsp;<a href="https://massgrave.dev" target="_blank">MicrosoftActivationScripts </a>&nbsp;[link name](#)
 
