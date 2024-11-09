@@ -12,7 +12,7 @@
 [🔎](https://citaty.info/)&nbsp;<a href="https://www.russianforfree.com/" target="_blank">RU Grammar</a>  &nbsp;<a href="https://orfogrammka.ru/" target="_blank">RU Grammar Checker</a>  &nbsp;<a href="https://gramota.ru/" target="_blank">RU Proofreading</a> &nbsp;<a href="https://www.multitran.com/">RU Dictionary</a> 
 
 [✨](#)&nbsp;<a href="https://tools.pdf24.org" target="_blank">pdf24.org</a>&nbsp;<a href="https://www.rsl.ru/"
- target="_blank">РГБ</a>&nbsp;<a href="https://www.library.spbu.ru/" target="_blank">Санкт-Петербургская РГБ</a> [Библиотека МГУ](#)
+ target="_blank">РГБ</a>&nbsp;<a href="https://www.library.spbu.ru/" target="_blank">Санкт-Петербургская РГБ</a> [Библиотека МГУ](https://www.msu.ru/en/library/)
 
 [🔖](https://www.rusprofile.ru/)&nbsp;<a href="https://diss.rsl.ru/" target="_blank">РГБ Диссертации</a>&nbsp;<a href="https://нэб.рф/">НЭБ</a>&nbsp;<a href="https://www.elibrary.ru/">eLibrary.ru</a>
 
