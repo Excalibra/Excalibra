@@ -36,7 +36,7 @@ name 2: [Microsoft Learn](https://learn.microsoft.com/zh-cn/training/modules/imp
 
 |[Search Navigation](https://moyu.games/)| [龙喵](https://ailongmiao.com)、[龙轩](http://ilxdh.com)、[s.b-hu.org](https://s.b-hu.org/lite/)、[regex101](https://regex101.com/) |
 | :-----------: | :----------------------------------------------------------: |
-|Shell| <a href="https://ss64.com" target="_blank" >SS64-CMD</a> <a href="https://www.learnfk.com/batch-script/batch-script-aliases.html">Limitless Tutorials</a>  <a href="https://www.educba.com/powershell-base64/" target="_blank" >EDUCBA</a> <a href="https://www.explainshell.com">Shell Syntax Analysis</a> [linux速查](https://wangchujiang.com/linux-command/) |
+|Shell| <a href="https://ss64.com" target="_blank" >SS64-CMD</a> <a href="https://www.learnfk.com/batch-script/batch-script-aliases.html">Limitless Tutorials</a>  <a href="https://www.educba.com/powershell-base64/" target="_blank" >EDUCBA</a> <a href="https://www.explainshell.com">Shell Syntax Analysis</a> [Linux Quick Reference](https://wangchujiang.com/linux-command/) |
 |MATHS|[graph_editor](https://csacademy.com/app/graph_editor/)、[myscript](http://webdemo.myscript.com)、[geogebra](https://www.geogebra.org/geometry)|
 |PHYSICS|[上海交通大学物理实验中心](https://pec.sjtu.edu.cn/ols/)、[复旦大学物理教学实验中心](http://phylab.fudan.edu.cn/doku.php)|
 |CHEM| [复旦大学化学实验教学中心](http://www.ecce.fudan.edu.cn/a2/22/c5772a41506/page.htm) |
