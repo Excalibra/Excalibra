@@ -14,7 +14,7 @@
 [✨](#)&nbsp;<a href="https://tools.pdf24.org" target="_blank">pdf24.org</a>&nbsp;<a href="https://www.rsl.ru/"
  target="_blank">РГБ</a>&nbsp;<a href="https://www.library.spbu.ru/" target="_blank">Санкт-Петербургская РГБ</a> [Библиотека МГУ](#)
 
-[🔖](https://www.rusprofile.ru/)&nbsp;<a href="#" target="_blank">link name</a>&nbsp;<a href="https://diss.rsl.ru/" target="_blank">РГБ Диссертации</a>&nbsp;<a href="https://нэб.рф/">НЭБ</a>
+[🔖](https://www.rusprofile.ru/)&nbsp;<a href="https://diss.rsl.ru/" target="_blank">РГБ Диссертации</a>&nbsp;<a href="https://нэб.рф/">НЭБ</a>
 
 ✏️ <a href="#" target="_blank">url name</a>&nbsp;<a href="#" target="_blank">url name 2</a> [url name 3](#)
 
