@@ -12,9 +12,9 @@
 [🔎](https://citaty.info/)&nbsp;<a href="https://www.russianforfree.com/" target="_blank">RU Grammar</a>  &nbsp;<a href="https://orfogrammka.ru/" target="_blank">RU Grammar Checker</a>  &nbsp;<a href="https://gramota.ru/" target="_blank">RU Proofreading</a> &nbsp;<a href="https://www.multitran.com/">RU Dictionary</a> 
 
 [✨](#)&nbsp;<a href="https://tools.pdf24.org" target="_blank">pdf24.org</a>&nbsp;<a href="https://www.rsl.ru/"
- target="_blank">Российская государственная библиотека</a>&nbsp;<a href="https://www.library.spbu.ru/" target="_blank">Санкт-Петербургская государственная университетская библиотека</a> [Библиотека МГУ](#)
+ target="_blank">РГБ</a>&nbsp;<a href="https://www.library.spbu.ru/" target="_blank">Санкт-Петербургская РГБ</a> [Библиотека МГУ](#)
 
-[🔖](#)&nbsp;<a href="#" target="_blank">url name</a>&nbsp;<a href="#">url name 2</a>&nbsp;<a href="#" target="_blank">url name 3</a>
+[🔖](#)&nbsp;<a href="https://diss.rsl.ru/" target="_blank">РГБ Диссертации</a>&nbsp;<a href="#">url name 2</a>&nbsp;<a href="#" target="_blank">url name 3</a>
 
 ✏️ <a href="#" target="_blank">url name</a>&nbsp;<a href="#" target="_blank">url name 2</a> [url name 3](#)
 
