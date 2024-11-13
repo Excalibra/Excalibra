@@ -3,7 +3,7 @@
 [![Readme Card](#)
 
 <a>
-  <img align="center" src="https://github.com/user-attachments/assets/7aeadf0c-626e-43c0-9e71-8a313dc27847"/>
+  <img align="center" src="https://github.com/user-attachments/assets/7aeadf0c-626e-43c0-9e71-8a313dc27847" width="1000" height="270"/>
 </a>
 
 
