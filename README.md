@@ -6,9 +6,6 @@
   <img align="center" src="https://github.com/user-attachments/assets/7aeadf0c-626e-43c0-9e71-8a313dc27847"/>
 </a>
 
-<a>
-  <img align="center" src="https://github.com/user-attachments/assets/fadd5aaa-1976-4684-a973-5dc2e2642557"/>
-</a>
 
 ## Web 
 
