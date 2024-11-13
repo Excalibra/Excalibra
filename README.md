@@ -3,7 +3,7 @@
 [![Readme Card](#)
 
 <a>
-  <img src="https://github.com/user-attachments/assets/cfb22827-68a4-4c68-a81d-5a2fa37bc457" style="object-fit: cover; width: 1000px; height: 270px;" />
+  <div style="width: 1000px; height: 270px; background-image: url('https://github.com/user-attachments/assets/cfb22827-68a4-4c68-a81d-5a2fa37bc457'); background-size: cover; background-position: center;"></div>
 </a>
 
 ## Web 
