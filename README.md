@@ -4,9 +4,8 @@
 
 
 <a>
-  <img src="https://github.com/user-attachments/assets/fadd5aaa-1976-4684-a973-5dc2e2642557" width="1000" height="300" style="object-fit: auto; object-position: center;" />
+  <img align="center" src="https://github.com/user-attachments/assets/fadd5aaa-1976-4684-a973-5dc2e2642557" width="1000" height="300"/>
 </a>
-
 
 ## Web 
 
