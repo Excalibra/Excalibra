@@ -4,7 +4,7 @@
 
 
 <a>
-  <div style="width:1000px; height:300px; overflow:hidden; position:relative;">
+  <div style="width:1000px; height:100px; overflow:hidden; position:relative;">
     <img src="https://github.com/user-attachments/assets/cfb22827-68a4-4c68-a81d-5a2fa37bc457" style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); width:auto; height:100%;" />
   </div>
 </a>
