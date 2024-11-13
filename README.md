@@ -2,9 +2,7 @@
 [![Readme Card](#)
 [![Readme Card](#)
 
-<a><img align="center" src="https://github.com/user-attachments/assets/cfb22827-68a4-4c68-a81d-5a2fa37bc457" /></a>
-
-![1bqlps49dul91](https://github.com/user-attachments/assets/cfb22827-68a4-4c68-a81d-5a2fa37bc457)
+<a><img align="center" src="https://github.com/user-attachments/assets/cfb22827-68a4-4c68-a81d-5a2fa37bc457" width="1000" height="270" /></a>
 
 ## Web 
 
