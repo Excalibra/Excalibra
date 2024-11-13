@@ -4,7 +4,7 @@
 
 
 <a>
-  <img align="center" src="https://github.com/user-attachments/assets/fadd5aaa-1976-4684-a973-5dc2e2642557" width="1000" height="300"/>
+  <img align="center" src="https://github.com/user-attachments/assets/fadd5aaa-1976-4684-a973-5dc2e2642557"/>
 </a>
 
 ## Web 
