@@ -27,7 +27,6 @@
 <br><br>
 
 ## Language and Tools
-![giphy-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/719e3414-2dd5-45d5-bb28-b368f5220b2f)
 
 <a><img align="right" src="https://github.com/user-attachments/assets/719e3414-2dd5-45d5-bb28-b368f5220b2f" width="270" height="270" /></a>
 
