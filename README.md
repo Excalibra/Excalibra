@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Excalibra&repo=scripts)](https://github.com/Excalibra/scripts/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Excalibra&repo=scripts)](https://github.com/Excalibra/scripts)
 [![Readme Card](#)
 [![Readme Card](#)
 
