@@ -40,7 +40,7 @@ name 2: [Microsoft Learn](https://learn.microsoft.com/zh-cn/training/modules/imp
 
 ## Table
 
-|[Навигация для отдыха](https://habr.com)| [Дзен](https://dzen.ru/)、[龙轩](http://ilxdh.com)、[s.b-hu.org](https://s.b-hu.org/lite/)、[regex101](https://regex101.com/) |
+|[Навигация для отдыха](https://habr.com)| [Дзен](https://dzen.ru/)、[sci-hub](https://www.wellesu.com/)、[regex101](https://regex101.com/) |
 | :-----------: | :----------------------------------------------------------: |
 |Shell| <a href="https://ss64.com" target="_blank" >SS64-CMD</a> <a href="https://www.learnfk.com/batch-script/batch-script-aliases.html">Limitless Tutorials</a>  <a href="https://www.educba.com/powershell-base64/" target="_blank" >EDUCBA</a> <a href="https://www.explainshell.com">Shell Syntax Analysis</a> [Linux Quick Reference](https://wangchujiang.com/linux-command/) |
 |MATHS|[graph_editor](https://csacademy.com/app/graph_editor/)、[myscript](http://webdemo.myscript.com)、[geogebra](https://www.geogebra.org/geometry)|
