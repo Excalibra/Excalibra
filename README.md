@@ -18,9 +18,9 @@
 
 [🔖](https://www.rusprofile.ru/)&nbsp;<a href="https://diss.rsl.ru/" target="_blank">РГБ Диссертации</a>&nbsp;<a href="https://нэб.рф/">НЭБ</a>&nbsp;<a href="https://www.elibrary.ru/">eLibrary.ru</a>
 
-✏️ <a href="#" target="_blank">url name</a>&nbsp;<a href="#" target="_blank">url name 2</a> [url name 3](#)
+✏️ 
 
-🧰&nbsp;[metools](http://www.metools.info/other/subnetmask160.html)&nbsp;[НЭБ](https://нэб.рф/))&nbsp;<a href="https://c.runoob.com" target="_blank">Beginner Tools</a> 
+🧰&nbsp;[metools](http://www.metools.info/other/subnetmask160.html)&nbsp;[НЭБ](https://нэб.рф/)&nbsp;<a href="https://c.runoob.com" target="_blank">Beginner Tools</a> 
 
 ❤️&nbsp;<a href="https://massgrave.dev" target="_blank">MicrosoftActivationScripts </a>
 
