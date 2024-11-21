@@ -24,6 +24,8 @@
 
 ❤️&nbsp;<a href="#" target="_blank">link name</a>&nbsp;<a href="#" target="_blank">link name</a>&nbsp;<a href="https://massgrave.dev" target="_blank">MicrosoftActivationScripts </a>&nbsp;[link name](#)
 
+🤖&nbsp;<a href="https://exploit.in/ip/" target="_blank">Тест анонимности</a>
+
 <br><br>
 
 ## Language and Tools
