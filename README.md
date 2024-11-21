@@ -20,7 +20,7 @@
 
 ✏️ <a href="#" target="_blank">url name</a>&nbsp;<a href="#" target="_blank">url name 2</a> [url name 3](#)
 
-🧰&nbsp;[metools](http://www.metools.info/other/subnetmask160.html)&nbsp;[link name]([#](https://нэб.рф/))&nbsp;<a href="https://c.runoob.com" target="_blank">Beginner Tools</a> &nbsp;[url name 2](#)&nbsp;[link name](#)&nbsp;[link name](https://www.msu.ru/en/library/)
+🧰&nbsp;[metools](http://www.metools.info/other/subnetmask160.html)&nbsp;[link name]([#](https://нэб.рф/))&nbsp;<a href="https://c.runoob.com" target="_blank">Beginner Tools</a> 
 
 ❤️&nbsp;<a href="https://massgrave.dev" target="_blank">MicrosoftActivationScripts </a>
 
