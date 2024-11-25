@@ -34,7 +34,7 @@
 
 Русский язык: [Ведомости](https://www.vedomosti.ru/) [КиберЛенинка](https://cyberleninka.ru/) [Институт экономической политики имени Е.Т. Гайдара](https://www.iep.ru/ru/) 
 
-Компьютерные инструменты: [Microsoft Learn](https://learn.microsoft.com/zh-cn/training/modules/implement-common-integration-features-finance-ops/10-exercise-1)  [ansible](http://www.tastones.com/stackoverflow/ansible/)&nbsp;[grep.app](https://grep.app)&nbsp;[localnetwork](http://localnetwork.cn/project-3/doc-200/)&nbsp;[hualigs](https://www.hualigs.cn)
+Компьютерные инструменты: [Microsoft Learn](https://learn.microsoft.com/zh-cn/training/modules/implement-common-integration-features-finance-ops/10-exercise-1)  [ansible](http://www.tastones.com/stackoverflow/ansible/)&nbsp;[grep.app](https://grep.app)&nbsp;[mybluelinux](https://www.mybluelinux.com/debian-permanent-static-routes/)
 
 <br><br><br><br><br><br>
 
