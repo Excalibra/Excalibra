@@ -1,6 +1,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=excalibra&repo=scripts)](https://github.com/Excalibra/scripts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=excalibra&repo=ChiseiKoya)](https://github.com/Excalibra/ChiseiKoya)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=excalibra&repo=network-tunneling)](https://github.com/Excalibra/network-tunneling)
 
 <a>
   <img align="center" src="https://github.com/user-attachments/assets/7aeadf0c-626e-43c0-9e71-8a313dc27847"/>
