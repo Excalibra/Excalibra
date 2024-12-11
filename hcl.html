@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>О себе</title>
+        <meta name="keywords" content="Введение, Поэзия">
+        <meta name="description" content="Панель введения, имитирующая интерфейс терминала">
+        <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0" />
+        <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+        <script src="./typing/typing.js"></script>
+        <link rel="stylesheet" href="./typing/typing.css">
+        <link rel="stylesheet" href="./font-awesome/css/font-awesome.css">
+    </head>
+    <style>
+        body {
+            /**
+            Ссылка на цветовую схему:
+            https://www.omegaxyz.com/2018/07/01/javascript-terminal/
+            */
+            background: black;
+            color: #00FF02;
+            font-size: 18px;
+            font-family: courier;
+        }
+        blink {
+            display: inline;        
+        }
+    </style>
+    
+    <body>
+        <div id="source">
+          Ожидание...<br> 
+          Подключение к моей странице GitHub - О себе<br>
+          Соединение установлено.<br>
+          Репозиторий: https://github.com/Excalibra/Excalibra<br>
+          Гость вошел, доступ предоставлен. Добро пожаловать на мой сайт.<br>
+          <br>
+          > Разрешите представиться. Мое имя пользователя — Excalibra. Я работал в международной торговле и на предприятиях недвижимости, а также имею некоторое понимание сферы внутренних интернет-услуг. В настоящее время я занимаюсь кибербезопасностью, веб-разработкой и работал инженером ИТ-операций в компании, производящей системы безопасности для дома. Моя роль включает управление информационными системами промышленного интернета и операциями процессов, а также подготовку отчетов по анализу данных логистики и цепочек поставок для регулярных совещаний.
+          <br>
+        <p>> Некоторые из моих работ:</p>
+          <ul>
+            <li><a href="https://github.com/Excalibra/network-tunneling">Network Tunneling</a></li> 
+            <li><a href="https://github.com/Excalibra/ChiseiKoya">ChiseiKoya</a></li>
+            <li><a href="https://github.com/Excalibra/Automated-Cryptocurrency-News-Analysis/tree/main">Automated-Cryptocurrency-News-Analysis</a></li>
+          </ul>           
+          <p>> Увлечения и интересы:</p>
+          <ul>
+            <li>Кофе и чай</li>
+            <li>Чтение и написание</li>
+            <li>Путешествия</li>
+          </ul>
+          > <i class="fa fa-github" aria-hidden="true"></i> 
+          Персональная страница: <a href="http://github.com/Excalibra">github.com/Excalibra</a><br>
+          > <i class="fa fa-envelope" aria-hidden="true"></i> 
+          Контактный email: <a href="mailto:x.calibra@outlook.com">x.calibra@outlook.com</a><br> 
+          <pre>
+            ____  _  _   __   __ _  __ _  ____ 
+            (_  _)/ )( \ / _\ (  ( \(  / )/ ___)
+              )(  ) __ (/    \/    / )  ( \___ \
+             (__) \_)(_\_/\_/\_)__)(__\_)(____/
+          </pre>
+        > <i>Спасибо что уделили время для прочтения моего представления. Я с нетерпением жду возможности лучше узнать вас.</i> :)
+        </div>
+        <div id="output-wrap">
+            <span id="output"></span>
+            <span class="typing-cursor">■</span>
+        </div>
+        <script>
+            var typing = new Typing({
+              source: document.getElementById('source'),
+              output: document.getElementById('output'),
+              delay: 50,
+              done: function() {} // Callback после завершения ввода
+            });
+            typing.start();
+        </script>    
+      <div>
+        <script type="text/javascript">
+          // Ссылка на адаптацию шрифта для мобильных: https://blog.csdn.net/lixinyi0622/article/details/87347816
+          document.documentElement.style.fontSize = document.documentElement.clientWidth / 640 * 100 + 'px';
+          setTimeout("javascript:location.href='index.html'", 300000);
+        </script>
+    </body>
+</html>
