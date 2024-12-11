@@ -51,12 +51,3 @@
 
 ---
 
-
-<!-- 
-
- <b><i><a href="https://hoochanlon.github.io/hoochanlon" target="_blank">About me</a></i></b> <br>
-
-<a href="#"><img align="right" src="./pictures/wx.png" width="200 " height="200" /></a>
-
-
--->
