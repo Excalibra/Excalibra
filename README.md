@@ -4,7 +4,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=excalibra&repo=cybersecurity)](https://github.com/Excalibra/cybersecurity)
 
 <a>
-  <img align="center" src="https://github.com/user-attachments/assets/e87ea619-51e7-4e0e-a672-e5792e1d0b81"/>
+  <img align="center" src="https://github.com/user-attachments/assets/dc1c40c8-35bf-4b9d-8120-0bc0fde05e1c"/>
 </a>
 
 
