@@ -5,8 +5,10 @@
 <a>
   <img align="center" src="https://github.com/user-attachments/assets/340a5127-8f23-442b-b501-6734d9da7710"/>
 </a>
+<a>
+  <img align="center" src="https://github.com/user-attachments/assets/7aeadf0c-626e-43c0-9e71-8a313dc27847"/>
+</a>
 
-https://github.com/user-attachments/assets/7aeadf0c-626e-43c0-9e71-8a313dc27847
 
 ## Web 
 
