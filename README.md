@@ -27,11 +27,11 @@
 
 🤖&nbsp;<a href="https://exploit.in/ip/" target="_blank">Тест анонимности</a>
 
-<br><br>
+<br>
 
 ## Language and Tools
 
-<a><img align="right" src="https://github.com/user-attachments/assets/719e3414-2dd5-45d5-bb28-b368f5220b2f" width="270" height="270" /></a>
+<a><img align="right" src="https://github.com/user-attachments/assets/a29d674e-b019-4e96-9253-f440632c7a10" width="400" height="299" /></a>
 
 Русский язык: [Ведомости](https://www.vedomosti.ru/) [КиберЛенинка](https://cyberleninka.ru/) [Институт экономической политики имени Е.Т. Гайдара](https://www.iep.ru/ru/) 
 
@@ -51,4 +51,5 @@
 
 
 ---
+
 
