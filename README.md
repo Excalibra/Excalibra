@@ -19,7 +19,7 @@
 
 [🔖](https://www.rusprofile.ru/)&nbsp;<a href="https://diss.rsl.ru/" target="_blank">РГБ Диссертации</a>&nbsp;<a href="https://нэб.рф/">НЭБ</a>&nbsp;<a href="https://www.elibrary.ru/">eLibrary.ru</a>
 
-✏️ 
+✏️ [Среднерусский вестник общественных наук](https://orelvestnik.ru/) 
 
 🧰&nbsp;[metools](http://www.metools.info/other/subnetmask160.html)&nbsp;[НЭБ](https://нэб.рф/)&nbsp;<a href="https://c.runoob.com" target="_blank">Beginner Tools</a> 
 
