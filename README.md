@@ -23,7 +23,7 @@
 
 🧰&nbsp;[metools](http://www.metools.info/other/subnetmask160.html)&nbsp;[НЭБ](https://нэб.рф/)&nbsp;<a href="https://c.runoob.com" target="_blank">Beginner Tools</a> 
 
-❤️&nbsp;<a href="https://massgrave.dev" target="_blank">MicrosoftActivationScripts </a>
+❤️&nbsp;<a href="https://massgrave.dev" target="_blank">MicrosoftActivationScripts </a> [Скачать Оригинальные образы Windows](https://download-original-windows.ru/)
 
 🤖&nbsp;<a href="https://exploit.in/ip/" target="_blank">Тест анонимности</a>
 
