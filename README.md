@@ -26,7 +26,7 @@
 
 ❤️&nbsp;<a href="https://massgrave.dev" target="_blank">MicrosoftActivationScripts </a>&nbsp;[Скачать Оригинальные образы Windows](https://download-original-windows.ru/)&nbsp;[OfficeToolPlus](https://otp.landian.vip/en-us/)&nbsp;[Office For MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)
 
-🤖&nbsp;<a href="https://exploit.in/ip/" target="_blank">Тест анонимности</a>
+🤖&nbsp;<a href="https://exploit.in/ip/" target="_blank">Тест анонимности</a>&nbsp;[OSINT Framework](https://osintframework.com/)
 
 <br>
 
