@@ -38,7 +38,7 @@
 
 Компьютерные инструменты: [Microsoft Learn](https://learn.microsoft.com/en-gb/training/modules/implement-common-integration-features-finance-ops/10-exercise-1)  [ansible](https://docs.ansible.com/)&nbsp;[grep.app](https://grep.app)&nbsp;[mybluelinux](https://www.mybluelinux.com/debian-permanent-static-routes/)
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ## Table
 
