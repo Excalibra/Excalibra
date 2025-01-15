@@ -24,7 +24,7 @@
 
 🧰&nbsp;[metools](http://www.metools.info/other/subnetmask160.html)&nbsp;[НЭБ](https://нэб.рф/)&nbsp;<a href="https://c.runoob.com" target="_blank">Beginner Tools</a> 
 
-❤️&nbsp;<a href="https://uupdump.net/known.php?q=category:w10-22h2" target="_blank">UUP dump</a>&nbsp;<a href="https://massgrave.dev" target="_blank">MicrosoftActivationScripts </a>&nbsp;[Скачать Оригинальные образы Windows](https://download-original-windows.ru/)&nbsp;[OfficeToolPlus](https://otp.landian.vip/en-us/)&nbsp;[Office For MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)
+❤️&nbsp;<a href="https://uupdump.net/known.php?q=category:w10-22h2" target="_blank">UUP dump</a>&nbsp;<a href="https://massgrave.dev" target="_blank">MicrosoftActivationScripts </a>&nbsp;[Скачать Оригинальные образы Windows](https://download-original-windows.ru/)&nbsp;[OfficeToolPlus](https://otp.landian.vip/en-us/)&nbsp;[Office For MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)&nbsp;[Веб прокси серверов](http://free-proxy.cz/ru/web-proxylist/)
 
 🤖&nbsp;<a href="https://exploit.in/ip/" target="_blank">Тест анонимности</a>&nbsp;[OSINT Framework](https://osintframework.com/)&nbsp;[FakePersonGenerator](www.fakepersongenerator.com)&nbsp;[DNS Leak Test](www.dnsleaktest.com)
 <br>
