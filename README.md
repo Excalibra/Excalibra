@@ -1,4 +1,3 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=excalibra&repo=scripts)](https://github.com/Excalibra/scripts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=excalibra&repo=ChiseiKoya)](https://github.com/Excalibra/ChiseiKoya)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=excalibra&repo=network-tunneling)](https://github.com/Excalibra/network-tunneling)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=excalibra&repo=cybersecurity)](https://github.com/Excalibra/cybersecurity)
