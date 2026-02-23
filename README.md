@@ -1,10 +1,3 @@
-[![Readme Card](https://your-instance.vercel.app/api/pin/?username=excalibra&repo=scripts)](https://github.com/Excalibra/scripts)
-[![Readme Card](https://your-instance.vercel.app/api/pin/?username=excalibra&repo=cybersecurity)](https://github.com/Excalibra/cybersecurity)
-[![Readme Card](https://your-instance.vercel.app/api/pin/?username=excalibra&repo=network-tunneling)](https://github.com/Excalibra/network-tunneling)
-[![Readme Card](https://your-instance.vercel.app/api/pin/?username=excalibra&repo=ChiseiKoya)](https://github.com/Excalibra/ChiseiKoya)
-
-![great-gatsby](https://awesome-github-stats.azurewebsites.net/user-stats/Excalibra?theme=great-gatsby)
-
 <a>
   <img align="center" src="https://github.com/user-attachments/assets/dc1c40c8-35bf-4b9d-8120-0bc0fde05e1c"/>
 </a>
@@ -56,3 +49,5 @@
 ---
 
 
+
+![great-gatsby](https://awesome-github-stats.azurewebsites.net/user-stats/Excalibra?theme=great-gatsby)
