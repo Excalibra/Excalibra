@@ -49,6 +49,8 @@
 ---
 
 
+<div align="center">
 
 ![great-gatsby](https://awesome-github-stats.azurewebsites.net/user-stats/Excalibra?theme=great-gatsby)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Excalibra&theme=react)](https://git.io/streak-stats)
+</div>
