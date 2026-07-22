@@ -14,7 +14,7 @@
     this.source = opts.source;
     this.output = opts.output;
     // this.delay = opts.delay || 120;
-    this.delay = opts.delay || 20;
+    this.delay = opts.delay || 5;
     this.chain = {
       parent: null,
       dom: this.output,
