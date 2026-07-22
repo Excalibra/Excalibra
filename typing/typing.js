@@ -13,7 +13,7 @@
     this.opts = opts || {};
     this.source = opts.source;
     this.output = opts.output;
-    this.delay = opts.delay || 5;         
+    this.delay = opts.delay || 20;         
     this.batchSize = opts.batchSize || 10;  
     this.chain = {
       parent: null,
