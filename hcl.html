@@ -1,85 +1,105 @@
 <!doctype html>
 <html>
-    <head>
-        <meta charset="utf-8" /> 
-        <title>О себе</title>
-        <meta name="keywords" content="Введение, Поэзия">
-        <meta name="description" content="Панель введения, имитирующая интерфейс терминала">
-        <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0" />
-        <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
-        <script src="./typing/typing.js"></script>
-        <link rel="stylesheet" href="./typing/typing.css">
-        <link rel="stylesheet" href="./font-awesome/css/font-awesome.css">
-    </head>
-    <style>
-        body {
-            /**
-            Ссылка на цветовую схему:
-            https://www.omegaxyz.com/2018/07/01/javascript-terminal/
-            */
-            background: black;
-            color: #00FF02;
-            font-size: 18px;
-            font-family: courier;
-        }
-        blink {
-            display: inline;        
-        }
-    </style>
-    
-    <body>
-        <div id="source">
-          Initializing connection to personal GitHub page...<br> 
-          Establishing secure connection...<br>
-          Connection Established.<br>
-          Репозиторий: https://github.com/Excalibra/Excalibra<br>
-          [LOGIN] Guest user detected.<br>
-          [ACCESS GRANTED] Добро пожаловать на мой сайт.<br>
-          <br>
-          > РАЗРЕШИТЕ ПРЕДСТАВИТЬСЯ. МОЕ ИМЯ ПОЛЬЗОВАТЕЛЯ — EXCALIBRA. Я РАБОТАЛ В МЕЖДУНАРОДНОЙ ТОРГОВЛЕ И НА ПРЕДПРИЯТИЯХ НЕДВИЖИМОСТИ, А ТАКЖЕ ИМЕЮ НЕКОТОРОЕ ПОНИМАНИЕ СФЕРЫ ВНУТРЕННИХ ИНТЕРНЕТ-УСЛУГ. В НАСТОЯЩЕЕ ВРЕМЯ Я ЗАНИМАЮСЬ КИБЕРБЕЗОПАСНОСТЬЮ, ВЕБ-РАЗРАБОТКОЙ И РАБОТАЛ ИНЖЕНЕРОМ ИТ-ОПЕРАЦИЙ В КОМПАНИИ, ПРОИЗВОДЯЩЕЙ СИСТЕМЫ БЕЗОПАСНОСТИ ДЛЯ ДОМА. МОЯ РОЛЬ ВКЛЮЧАЕТ УПРАВЛЕНИЕ ИНФОРМАЦИОННЫМИ СИСТЕМАМИ ПРОМЫШЛЕННОГО ИНТЕРНЕТА И ОПЕРАЦИЯМИ ПРОЦЕССОВ, А ТАКЖЕ ПОДГОТОВКУ ОТЧЕТОВ ПО АНАЛИЗУ ДАННЫХ ЛОГИСТИКИ И ЦЕПОЧЕК ПОСТАВОК ДЛЯ РЕГУЛЯРНЫХ СОВЕЩАНИЙ.
-          <br>
-        <p>> НЕКОТОРЫЕ ИЗ МОИХ РАБОТ:</p>
-          <ul>
-            <li><a href="https://github.com/Excalibra/network-tunneling">Network Tunneling</a></li> 
-            <li><a href="https://github.com/Excalibra/ChiseiKoya">ChiseiKoya</a></li>
-            <li><a href="https://github.com/Excalibra/Automated-Cryptocurrency-News-Analysis/tree/main">Automated-Cryptocurrency-News-Analysis</a></li>
-          </ul>           
-          <p>> УВЛЕЧЕНИЯ И ИНТЕРЕСЫ:</p>
-          <ul>
-            <li>КОФЕ И ЧАЙ</li>
-            <li>ЧТЕНИЕ И НАПИСАНИЕ</li>
-            <li>ПУТЕШЕСТВИЯ</li>
-          </ul>
-          > <i class="fa fa-github" aria-hidden="true"></i> 
-          ПЕРСОНАЛЬНАЯ СТРАНИЦА: <a href="http://github.com/Excalibra">github.com/Excalibra</a><br>
-          > <i class="fa fa-envelope" aria-hidden="true"></i> 
-          КОНТАКТНЫЙ EMAIL: <a href="mailto:x.calibra@outlook.com">x.calibra@outlook.com</a><br> 
-          <pre>
+<head>
+    <meta charset="utf-8" />
+    <title>About Myself — Excalibra</title>
+    <meta name="keywords" content="Introduction">
+    <meta name="description" content="Introduction panel simulating a terminal interface">
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+    <script src="./typing/typing.js"></script>
+    <link rel="stylesheet" href="./typing/typing.css">
+    <link rel="stylesheet" href="./font-awesome/css/font-awesome.css">
+</head>
+<style>
+    body {
+        background:black;
+        color: #00FF02;
+        font-size: 18px;
+        font-family:courier;
+    }    
+    blink {
+        display:inline;        
+    } 
+    #source {
+        display:none;
+    }
+    a {
+        color: #00BFFF;
+        text-decoration: none;
+        border-bottom: 1px dashed #00BFFF;
+    }
+    a:hover {
+        color: #1E90FF;
+        border-bottom: 1px solid #1E90FF;
+    }
+</style>
+<body>
+    <div id="source">
+        Waiting...<br> 
+        Connecting to [About Myself — Excalibra]<br>
+        Connection Established.<br>
+        repo: https://github.com/Excalibra/Excalibra<br>
+        Guest Logined, Access Is Granted. Welcome To My Site<br>
+        <br>
+        > ALLOW ME TO INTRODUCE MYSELF. MY USERNAME IS EXCALIBRA. I AM A CYBERSECURITY PROFESSIONAL FOCUSED ON MALWARE DEVELOPMENT, RED TEAM OPERATIONS, MALWARE ANALYSIS, AND PENETRATION TESTING. ON A DAILY BASIS, I STRIVE TO IMPROVE DEFENSIVE POSTURES ACROSS CRITICAL INFRASTRUCTURES. BEYOND THE HANDS-ON TECHNICAL WORK, I AM ALSO AN ACADEMIC AT HEART—I REGULARLY WRITE BLOGS, STUDY REPORTS, CONDUCT IN-DEPTH ANALYSES, AND KEEP A CLOSE PULSE ON THE LATEST THREAT INTELLIGENCE NEWS TO BRIDGE THE GAP BETWEEN OFFENSIVE INSIGHTS AND DEFENSIVE STRATEGIES.
+        <br>
+        <p>> SOME OF MY WORKS:</p>
+        <ul>
+            <li><a href="https://github.com/Excalibra/cybersecurity">Cybersecurity </a></li>
+            <li><a href="https://github.com/Excalibra/ChiseiKoya">ChiseiKoya </a></li>
+            <li><a href="https://github.com/Excalibra/network-tunneling">Network Tunneling </a></li>
+            <li><a href="https://github.com/Excalibra/scripts">Scripts </a></li>
+            <li><a href="https://github.com/Excalibra/cybersecurity-interview-questions">Cybersecurity Interview Questions </a></li>
+        </ul>	
+        <p>> Projects:</p>
+        <ul>
+            <li><a href="https://github.com/Excalibra/AFInjector">AFInjector </a></li>
+            <li><a href="https://github.com/Excalibra/GhostLNK">GhostLNK </a></li>
+            <li><a href="https://github.com/Excalibra/XORPHER">XORPHER </a> </li>
+            <li><a href="https://github.com/Excalibra/GhostByte">Ghostbyte </a> </li>
+            <li><a href="https://github.com/Excalibra/Advanced-Phishing-Simulation-Framework">Advanced-Phishing-Simulation-Framework</a></li>
+            <li><a href="https://github.com/Excalibra/LNK-Malware-Analyzer">LNK-Malware-Analyzer</a></li>  
+            <li><a href="https://github.com/Excalibra/Antivirus-EDR-Evasion-Bypass-for-Pentesters-Red-Teamers">Antivirus EDR Evasion Bypass for Pentesters Red Teamers</a></li>
+            <li><a href="https://github.com/Excalibra/RED-TEAM-OPERATOR-Evasion-Windows">RED TEAM OPERATOR Evasion Windows</a></li>  
+        </ul>			
+        > <i class="fa fa-github" aria-hidden="true"></i> 
+        Personal blog: <a href="http://Excalibra.github.io">Excalibra.github.io</a><br>
+        > <i class="fa fa-github" aria-hidden="true"></i> 
+        Personal homepage: <a href="http://github.com/Excalibra">github.com/Excalibra</a><br>
+        > <i class="fa fa-envelope" aria-hidden="true"></i> 
+        Contact email: <a href="mailto:x.calibra@outlook.com">x.calibra@outlook.com</a><br>  
+        <p>> This is text2ascii.it’s for you.</p>
+        <pre>
             ____  _  _   __   __ _  __ _  ____ 
             (_  _)/ )( \ / _\ (  ( \(  / )/ ___)
               )(  ) __ (/    \/    / )  ( \___ \
-             (__) \_)(_\_/\_/\_)__)(__\_)(____/
-          </pre>
-        > <i>СПАСИБО ЧТО УДЕЛИЛИ ВРЕМЯ ДЛЯ ПРОЧТЕНИЯ МОЕГО ПРЕДСТАВЛЕНИЯ. Я С НЕТЕРПЕНИЕМ ЖДУ ВОЗМОЖНОСТИ ЛУЧШЕ УЗНАТЬ ВАС.</i> :)
-        </div>
-        <div id="output-wrap">
-            <span id="output"></span>
-            <span class="typing-cursor">■</span>
-        </div>
-        <script>
-            var typing = new Typing({
-              source: document.getElementById('source'),
-              output: document.getElementById('output'),
-              delay: 50,
-              done: function() {} // Callback после завершения ввода
-            });
-            typing.start();
-        </script>    
-      <div>
-        <script type="text/javascript">
-          // Ссылка на адаптацию шрифта для мобильных: https://blog.csdn.net/lixinyi0622/article/details/87347816
-          document.documentElement.style.fontSize = document.documentElement.clientWidth / 640 * 100 + 'px';
-          setTimeout("javascript:location.href='index.html'", 300000);
-        </script>
-    </body>
+             (__) \_)(_/\_/\_/\_)__)(__\_)(____/
+        </pre>
+        > <i>Thank you for taking the time out of your busy schedule to read my introduction :)</i>
+    </div>
+    <div id="output-wrap">
+        <span id="output"></span>
+        <span class="typing-cursor">■</span>
+    </div>
+    <script>
+        // Mobile font adaptation
+        document.documentElement.style.fontSize = document.documentElement.clientWidth / 640 * 100 + 'px';
+        
+        var typing = new Typing({
+            source: document.getElementById('source'),
+            output: document.getElementById('output'),
+            delay: 50,
+            done: function() {
+                // Wait 3 seconds after typing finishes before redirecting
+                console.log('Typing complete, redirecting in 3 seconds...');
+                setTimeout(function() {
+                    console.log('Redirecting...');
+                    window.location.href = 'https://excalibra.github.io/';
+                }, 3000);
+            }
+        });
+        typing.start();
+    </script>
+</body>
 </html>
