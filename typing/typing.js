@@ -13,8 +13,8 @@
     this.opts = opts || {};
     this.source = opts.source;
     this.output = opts.output;
-    this.delay = opts.delay || 20;         
-    this.batchSize = opts.batchSize || 10;  
+    // this.delay = opts.delay || 120;
+    this.delay = opts.delay || 60;
     this.chain = {
       parent: null,
       dom: this.output,
@@ -55,6 +55,7 @@
           });
         }
       }
+
       return arr;
     },
 
@@ -74,24 +75,14 @@
         return;
       }
 
+      var curr = ele.val.shift();
       var that = this;
-      var batch = [];
 
-      while (ele.val.length > 0 && 
-             typeof ele.val[0] === 'string' && 
-             batch.length < this.batchSize) {
-        batch.push(ele.val.shift());
-      }
-
-      if (batch.length > 0) {
-        this.print(ele.dom, batch.join(''), function() {
+      if (typeof curr === 'string') {
+        this.print(ele.dom, curr, function() {
           that.play(ele);
         });
-        return;
-      }
-
-      if (ele.val.length > 0 && typeof ele.val[0] === 'object') {
-        var curr = ele.val.shift();
+      } else {
         var dom = document.createElement(curr.dom.nodeName);
         var attrs = that.toArray(curr.dom.attributes);
         for (var i = 0; i < attrs.length; i++) {
@@ -121,7 +112,7 @@
     }
   };
 
-  Typing.version = '2.2';
+  Typing.version = '2.1';
 
   return Typing;
 }));
