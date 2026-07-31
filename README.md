@@ -57,4 +57,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Excalibra)](https://git.io/streak-stats)
 </div>
 
-![Snake animation](https://github.com/Excalibra/Excalibra/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/Excalibra/Excalibra/output/github-contribution-grid-snake-dark.svg)
