@@ -2,7 +2,6 @@
   <img align="center" src="https://github.com/user-attachments/assets/dc1c40c8-35bf-4b9d-8120-0bc0fde05e1c"/>
 </a>
 
-
 ## Web 
 
 <a href="https://music.apple.com/us/song/dissolved-girl/724466943"><img align="right" src="https://github.com/user-attachments/assets/606a1978-f747-4942-8a86-8e20d1df8469" width="270" height="270" />Apple Music（Massive Attack - Dissolved Girl) </a>
@@ -57,3 +56,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Excalibra)](https://git.io/streak-stats)
 </div>
+
+![Snake animation](https://github.com/Excalibra/Excalibra/blob/output/github-contribution-grid-snake.svg)
