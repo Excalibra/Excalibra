@@ -2,6 +2,12 @@
   <img align="center" src="https://github.com/user-attachments/assets/dc1c40c8-35bf-4b9d-8120-0bc0fde05e1c"/>
 </a>
 
+<br><br>
+
+<p align="center">
+  <img src="./terminal.svg" alt="whoami" />
+</p>
+
 ## Web 
 
 <a href="https://music.apple.com/us/song/dissolved-girl/724466943"><img align="right" src="https://github.com/user-attachments/assets/606a1978-f747-4942-8a86-8e20d1df8469" width="270" height="270" />Apple Music（Massive Attack - Dissolved Girl) </a>
