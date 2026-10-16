@@ -102,8 +102,8 @@
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="4.15s" dur="0.1s" fill="freeze"/>
     <text y="318" class="mono">
-      <tspan x="15"  fill="#ffffff">SeWeaponPrivilege</tspan>
-      <tspan x="275" fill="#c9d1d9">QSZ-92, Type 54 Pistol, NRP-9</tspan>
+      <tspan x="15"  fill="#ffffff">SeMaldevPrivilege</tspan>
+      <tspan x="275" fill="#c9d1d9">C2, Shellcode, Payload Dev, EDR Evasion</tspan>
       <tspan x="745" fill="#13a10e">Enabled</tspan>
     </text>
   </g>
