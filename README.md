@@ -48,15 +48,6 @@
 ---
 
 
-<div align="center">
-
-![great-gatsby](https://awesome-github-stats.azurewebsites.net/user-stats/Excalibra?theme=great-gatsby)
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Excalibra)](https://git.io/streak-stats)
-</div>
-
 
 <p align="center">
   <sub><i>Offensive Security Researcher &nbsp;·&nbsp; Active Directory &nbsp;·&nbsp; Post-Exploitation</i></sub>
